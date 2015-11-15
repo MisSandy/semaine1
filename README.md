@@ -1,5 +1,5 @@
 # Semaine1
-Bonjour, je m'appelle Sandy et mon objectif est de connaître le codage et ainsi coder très naturellement, 
+Bonjour, je m'appelle Sandy et mon objectif est de connaître le codage et ainsi coder très naturellement.
 
 # Formation
 * licence AES
